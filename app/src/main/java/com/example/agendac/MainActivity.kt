@@ -34,3 +34,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Se hizo uso de la IA para consultar sobre la Button Navigation Bar y así lograr su exitosa implementación.
+
+
+
